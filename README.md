@@ -5,5 +5,4 @@ extract_price.py =
 
 house.py=  
             data cleaning done using pandas
-
             and matplotlib is used  to show the line graph of area with respect to price.
