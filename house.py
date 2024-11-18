@@ -65,7 +65,7 @@ print(data[['Area', 'Price']])
 plt.figure(figsize=(10,10))
 
 # Line plot for Area vs Price
-plt.plot(data['Area'], data['Price'], color='pink', linestyle='-', linewidth=1)
+plt.plot(data['Area'], data['Price'], color='pink', linestyle='-', linewidth=2)
 
 plt.title('House Price by Area')
 plt.xlabel('Area (sqft)')
